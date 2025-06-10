@@ -1,0 +1,1 @@
+https://api.edenai.run/v2/ocr/resume_parser
